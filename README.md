@@ -6,6 +6,20 @@ Primary languages: Go, TypeScript. Also use: Python, Java. Learning Rust.
 I care about separation of responsibilities (DDD / Clean Architecture),
 and I’m interested in native networking and security (e.g., WebSocket, mTLS, circuits).
 
+## What I value
+- Clear boundaries (domain / usecase / infra) and typed, boring interfaces
+- Simple data models over clever ones
+- Observability and graceful shutdown before features
+
+## Currently
+- Building a browser party game over WebSocket
+- Experimenting with circuit routing and mTLS-backed services
+
+## Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+
 ## Tech Focus
 
 <div align="center">
@@ -14,7 +28,7 @@ and I’m interested in native networking and security (e.g., WebSocket, mTLS, c
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="36" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="36" alt="Java"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="36" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="36" alt="AWS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="36" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="36" alt="Kubernetes"/>
 </div>
@@ -58,34 +72,27 @@ and I’m interested in native networking and security (e.g., WebSocket, mTLS, c
 
 - **Axiom Shift** — PvE strategy prototype aiming for a “new run, new rules” experience:
   the ruleset changes on each launch. Go + Ebiten; domain/usecase/ui kept separate.  
-  https://github.com/ikedadada/axiom-shift
+
+  - https://github.com/ikedadada/axiom-shift
 
 - **molecule-playground** — SPA app using React Router to avoid complex Next.js upgrade paths;
-  additionally experimented with in-browser 3D rendering.  (see https://ikedadada.github.io/molecule-playground/.)
-  https://github.com/ikedadada/molecule-playground
+  additionally experimented with in-browser 3D rendering.
+
+  - https://github.com/ikedadada/molecule-playground
+  - https://ikedadada.github.io/molecule-playground
 
 - **iko-game-app-frontend** — Next.js (TypeScript) frontend for a browser online game,
   using WebSocket-based real-time communication.  
-  https://github.com/ikedadada/iko-game-app-frontend
+
+  - https://github.com/ikedadada/iko-game-app-frontend
 
 - **iko-game-app-backend** — TypeScript backend for the same game:
   WebSocket endpoints + simple state management; containerized.  
-  https://github.com/ikedadada/iko-game-app-backend
 
-- **go-ptor** — WIP pseudo-Tor (pTor) in Go; exploring circuit building and multi-hop routing.  
-  https://github.com/ikedadada/go-ptor
+  - https://github.com/ikedadada/iko-game-app-backend
+
+- **go-ptor** — WIP pseudo-Tor (pTor) in Go; exploring circuit building and multi-hop routing.
+
+  - https://github.com/ikedadada/go-ptor
 
 </details>
-
-## What I value
-- Clear boundaries (domain / usecase / infra) and typed, boring interfaces
-- Simple data models over clever ones
-- Observability and graceful shutdown before features
-
-## Currently
-- Building a browser party game over WebSocket
-- Experimenting with circuit routing and mTLS-backed services
-
-## Recent Activity
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
