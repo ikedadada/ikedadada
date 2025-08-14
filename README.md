@@ -11,10 +11,6 @@ and I’m interested in native networking and security (e.g., WebSocket, mTLS, c
 - Simple data models over clever ones
 - Observability and graceful shutdown before features
 
-## Currently
-- Building a browser party game over WebSocket
-- Experimenting with circuit routing and mTLS-backed services
-
 ## Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#92](https://github.com//ikedadada/go-ptor/pull/92) in [ikedadada/go-ptor](https://github.com//ikedadada/go-ptor)
