@@ -13,11 +13,11 @@ and I’m interested in native networking and security (e.g., WebSocket, mTLS, c
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com//ikedadada/kbd-synth-min/pull/2) in [ikedadada/kbd-synth-min](https://github.com//ikedadada/kbd-synth-min)
-2. 💪 Opened PR [#2](https://github.com//ikedadada/kbd-synth-min/pull/2) in [ikedadada/kbd-synth-min](https://github.com//ikedadada/kbd-synth-min)
-3. 🎉 Merged PR [#4](https://github.com//ikedadada/todo-api-rust/pull/4) in [ikedadada/todo-api-rust](https://github.com//ikedadada/todo-api-rust)
-4. 💪 Opened PR [#4](https://github.com//ikedadada/todo-api-rust/pull/4) in [ikedadada/todo-api-rust](https://github.com//ikedadada/todo-api-rust)
-5. 🎉 Merged PR [#3](https://github.com//ikedadada/todo-api-rust/pull/3) in [ikedadada/todo-api-rust](https://github.com//ikedadada/todo-api-rust)
+1. 🎉 Merged PR [#10](https://github.com//ikedadada/kbd-synth-min/pull/10) in [ikedadada/kbd-synth-min](https://github.com//ikedadada/kbd-synth-min)
+2. 💪 Opened PR [#10](https://github.com//ikedadada/kbd-synth-min/pull/10) in [ikedadada/kbd-synth-min](https://github.com//ikedadada/kbd-synth-min)
+3. 🎉 Merged PR [#9](https://github.com//ikedadada/kbd-synth-min/pull/9) in [ikedadada/kbd-synth-min](https://github.com//ikedadada/kbd-synth-min)
+4. 💪 Opened PR [#9](https://github.com//ikedadada/kbd-synth-min/pull/9) in [ikedadada/kbd-synth-min](https://github.com//ikedadada/kbd-synth-min)
+5. 🎉 Merged PR [#8](https://github.com//ikedadada/kbd-synth-min/pull/8) in [ikedadada/kbd-synth-min](https://github.com//ikedadada/kbd-synth-min)
 <!--END_SECTION:activity-->
 
 
