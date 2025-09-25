@@ -13,11 +13,11 @@ and I’m interested in native networking and security (e.g., WebSocket, mTLS, c
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com//ikedadada/todo-api-rust/pull/5) in [ikedadada/todo-api-rust](https://github.com//ikedadada/todo-api-rust)
-2. 💪 Opened PR [#5](https://github.com//ikedadada/todo-api-rust/pull/5) in [ikedadada/todo-api-rust](https://github.com//ikedadada/todo-api-rust)
-3. 🎉 Merged PR [#15](https://github.com//ikedadada/kbd-synth-min/pull/15) in [ikedadada/kbd-synth-min](https://github.com//ikedadada/kbd-synth-min)
-4. 💪 Opened PR [#15](https://github.com//ikedadada/kbd-synth-min/pull/15) in [ikedadada/kbd-synth-min](https://github.com//ikedadada/kbd-synth-min)
-5. 🎉 Merged PR [#14](https://github.com//ikedadada/kbd-synth-min/pull/14) in [ikedadada/kbd-synth-min](https://github.com//ikedadada/kbd-synth-min)
+1. 🎉 Merged PR [#1](https://github.com//ikedadada/start-ddd-and-clean-architecture/pull/1) in [ikedadada/start-ddd-and-clean-architecture](https://github.com//ikedadada/start-ddd-and-clean-architecture)
+2. 💪 Opened PR [#1](https://github.com//ikedadada/start-ddd-and-clean-architecture/pull/1) in [ikedadada/start-ddd-and-clean-architecture](https://github.com//ikedadada/start-ddd-and-clean-architecture)
+3. 🎉 Merged PR [#5](https://github.com//ikedadada/todo-api-rust/pull/5) in [ikedadada/todo-api-rust](https://github.com//ikedadada/todo-api-rust)
+4. 💪 Opened PR [#5](https://github.com//ikedadada/todo-api-rust/pull/5) in [ikedadada/todo-api-rust](https://github.com//ikedadada/todo-api-rust)
+5. 🎉 Merged PR [#15](https://github.com//ikedadada/kbd-synth-min/pull/15) in [ikedadada/kbd-synth-min](https://github.com//ikedadada/kbd-synth-min)
 <!--END_SECTION:activity-->
 
 
