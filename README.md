@@ -13,7 +13,7 @@ and I’m interested in native networking and security (e.g., WebSocket, mTLS, c
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com//ikedadada/start-ddd-and-clean-architecture/pull/1) in [ikedadada/start-ddd-and-clean-architecture](https://github.com//ikedadada/start-ddd-and-clean-architecture)
+1. 💪 Opened PR [#1](https://github.com//ikedadada/start-ddd-and-clean-architecture/pull/1) in [ikedadada/start-ddd-and-clean-architecture](https://github.com//ikedadada/start-ddd-and-clean-architecture)
 2. 💪 Opened PR [#1](https://github.com//ikedadada/start-ddd-and-clean-architecture/pull/1) in [ikedadada/start-ddd-and-clean-architecture](https://github.com//ikedadada/start-ddd-and-clean-architecture)
 3. 🎉 Merged PR [#5](https://github.com//ikedadada/todo-api-rust/pull/5) in [ikedadada/todo-api-rust](https://github.com//ikedadada/todo-api-rust)
 4. 💪 Opened PR [#5](https://github.com//ikedadada/todo-api-rust/pull/5) in [ikedadada/todo-api-rust](https://github.com//ikedadada/todo-api-rust)
