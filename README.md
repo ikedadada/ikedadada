@@ -13,8 +13,8 @@ and I’m interested in native networking and security (e.g., WebSocket, mTLS, c
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](undefined) in [ikedadada/try-react-v19-app](https://github.com/ikedadada/try-react-v19-app)
-2. 💪 Opened PR [#1](undefined) in [ikedadada/try-react-v19-app](https://github.com/ikedadada/try-react-v19-app)
+1. ❌ Merged PR [#2](undefined) in [ikedadada/try-react-v19-app](https://github.com/ikedadada/try-react-v19-app)
+2. 💪 Opened PR [#2](undefined) in [ikedadada/try-react-v19-app](https://github.com/ikedadada/try-react-v19-app)
 3. 🎉 Merged PR [#5](https://github.com//ikedadada/todo-api-rust/pull/5) in [ikedadada/todo-api-rust](https://github.com//ikedadada/todo-api-rust)
 4. 💪 Opened PR [#5](https://github.com//ikedadada/todo-api-rust/pull/5) in [ikedadada/todo-api-rust](https://github.com//ikedadada/todo-api-rust)
 5. 🎉 Merged PR [#15](https://github.com//ikedadada/kbd-synth-min/pull/15) in [ikedadada/kbd-synth-min](https://github.com//ikedadada/kbd-synth-min)
