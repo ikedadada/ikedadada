@@ -13,11 +13,11 @@ and I’m interested in native networking and security (e.g., WebSocket, mTLS, c
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#2](undefined) in [ikedadada/try-react-v19-app](https://github.com/ikedadada/try-react-v19-app)
-2. 💪 Opened PR [#2](undefined) in [ikedadada/try-react-v19-app](https://github.com/ikedadada/try-react-v19-app)
-3. 🎉 Merged PR [#5](https://github.com//ikedadada/todo-api-rust/pull/5) in [ikedadada/todo-api-rust](https://github.com//ikedadada/todo-api-rust)
-4. 💪 Opened PR [#5](https://github.com//ikedadada/todo-api-rust/pull/5) in [ikedadada/todo-api-rust](https://github.com//ikedadada/todo-api-rust)
-5. 🎉 Merged PR [#15](https://github.com//ikedadada/kbd-synth-min/pull/15) in [ikedadada/kbd-synth-min](https://github.com//ikedadada/kbd-synth-min)
+1. ❗ Opened issue [#9](https://github.com/ikedadada/nano-code/issues/9) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
+2. ❗ Opened issue [#8](https://github.com/ikedadada/nano-code/issues/8) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
+3. 🔓 Reopened issue [#5](https://github.com/ikedadada/nano-code/issues/5) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
+4. 🔒 Closed issue [#5](https://github.com/ikedadada/nano-code/issues/5) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
+5. ❗ Opened issue [#7](https://github.com/ikedadada/nano-code/issues/7) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
 <!--END_SECTION:activity-->
 
 
