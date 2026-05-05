@@ -13,11 +13,11 @@ and I’m interested in native networking and security (e.g., WebSocket, mTLS, c
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#9](https://github.com/ikedadada/nano-code/issues/9) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
-2. ❗ Opened issue [#8](https://github.com/ikedadada/nano-code/issues/8) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
-3. 🔓 Reopened issue [#5](https://github.com/ikedadada/nano-code/issues/5) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
-4. 🔒 Closed issue [#5](https://github.com/ikedadada/nano-code/issues/5) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
-5. ❗ Opened issue [#7](https://github.com/ikedadada/nano-code/issues/7) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
+1. 🔒 Closed issue [#10](https://github.com/ikedadada/nano-code/issues/10) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
+2. 🔒 Closed issue [#9](https://github.com/ikedadada/nano-code/issues/9) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
+3. 🔒 Closed issue [#8](https://github.com/ikedadada/nano-code/issues/8) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
+4. 🔒 Closed issue [#7](https://github.com/ikedadada/nano-code/issues/7) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
+5. 🔒 Closed issue [#6](https://github.com/ikedadada/nano-code/issues/6) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
 <!--END_SECTION:activity-->
 
 
