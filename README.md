@@ -13,11 +13,11 @@ and I’m interested in native networking and security (e.g., WebSocket, mTLS, c
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#10](https://github.com/ikedadada/nano-code/issues/10) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
-2. 🔒 Closed issue [#9](https://github.com/ikedadada/nano-code/issues/9) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
-3. 🔒 Closed issue [#8](https://github.com/ikedadada/nano-code/issues/8) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
-4. 🔒 Closed issue [#7](https://github.com/ikedadada/nano-code/issues/7) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
-5. 🔒 Closed issue [#6](https://github.com/ikedadada/nano-code/issues/6) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
+1. ❌ Merged PR [#18](undefined) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
+2. 💪 Opened PR [#18](undefined) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
+3. ❌ Merged PR [#17](undefined) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
+4. 💪 Opened PR [#17](undefined) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
+5. ❌ Merged PR [#16](undefined) in [ikedadada/nano-code](https://github.com/ikedadada/nano-code)
 <!--END_SECTION:activity-->
 
 
